@@ -122,7 +122,7 @@ public class PerfectoNativeSample {
 			driver.findElement(By.id("com.statsports.apexconsumer:id/login_et_email")).click();
 			Thread.sleep(1000);
 			
-			driver.findElement(By.id("com.statsports.apexconsumer:id/login_et_email")).sendKeys("c.egan@statsports.com");
+			driver.findElement(By.id("com.statsports.apexconsumer:id/login_et_email")).sendKeys("nikhilakkaldevi11@gmail.com");
 			Thread.sleep(1000);
 			
 			driver.findElement(By.id("com.statsports.apexconsumer:id/login_et_password")).click();
@@ -133,6 +133,8 @@ public class PerfectoNativeSample {
 			
 			driver.findElement(By.id("com.statsports.apexconsumer:id/btn_login")).click();
 			Thread.sleep(10000);
+			
+			System.out.println("Nikhil")
 
 		    /**
 		    *****************************
