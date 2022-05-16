@@ -134,7 +134,7 @@ public class PerfectoNativeSample {
 			driver.findElement(By.id("com.statsports.apexconsumer:id/btn_login")).click();
 			Thread.sleep(10000);
 			
-			System.out.println("Nikhil")
+			System.out.println("Nikhil");
 
 		    /**
 		    *****************************
